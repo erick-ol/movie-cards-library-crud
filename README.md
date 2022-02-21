@@ -8,7 +8,7 @@ This was a project developed in the [Software Development Course at Trybe](https
 First of all you need to download the project files, you can do this using git.
 
 ```bash
-git clone git@github.com:erick-ol/react-movie-cards-library.git
+git clone git@github.com:erick-ol/react-movie-cards-library-crud.git
 ```
 
 After you clone the repository you need to enter the folder that contains the project you just downloaded and install all the dependencies of this application.
